@@ -10,7 +10,6 @@ body{
 }
 .nav{
     background-color: white;
-    color:red;
     padding:40px;
 }
 .main-body{
@@ -39,7 +38,7 @@ body{
 .side-nav a{
     text-decoration:none;
     font-size:16px;
-  
+    color:rgb(101, 99, 114);
     display:block;
     padding:20px 10px;
     text-align: center;
